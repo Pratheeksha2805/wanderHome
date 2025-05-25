@@ -1,4 +1,4 @@
-# 🏡 WanderHome - A Full Stack MERN Application
+# 🏡 WanderHome - A Full Stack Application
 
 WanderHome is a travel web application where users can browse, create, delete , edit vacation home listings. It includes authentication, image uploads, and review functionality.
 
